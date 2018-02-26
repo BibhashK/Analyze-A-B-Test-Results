@@ -1,2 +1,2 @@
 # Analyze-A-B-Test-Results
-project 4 Data analyst Nano Degree
+Udacity Data analyst Nano Degree project - 4
