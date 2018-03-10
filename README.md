@@ -1,5 +1,5 @@
 # Analyze-A-B-Test-Results
-Udacity Data analyst Nano Degree project - 4
+Udacity Data Analyst NanoDegree project - 4
 
 A/B tests are very commonly performed by data analysts and data scientists. It is important that you get some practice working with the difficulties of this kind of experiment due to its frequency of use.
 
